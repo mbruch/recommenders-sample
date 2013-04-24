@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Calls Recommender
+Bundle-SymbolicName: org.eclipse.recommenders.calls
+Bundle-Version: 1.0.3.qualifier
+Bundle-Vendor: Eclipse Code Recommenders
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
